@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+h1{
+    text-align: center;
+}
+
+
+/* navbar:search  section*/
+
+
+#search{
+    border-radius: 5px;
+    background-color: rgb(211, 205, 169);
+}#navbar{
+    
+    height: 50px;
+    background-color:rgba(116, 87, 87, 0.221);
+    opacity: 0.90;
+    color: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+#navbar ol li{
+    display: block;
+    color: white;
+    padding: 5px 40px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+button{
+    background-color: #f08804;
+}
+
+/* style decoration:text */
+#text{
+   font-size: medium;
+   font-family: 'Times New Roman', Times, serif;
+   color:rgba(0, 0, 0, 0.750)
+}
+/* Style Footer:center */
+.center{
+    text-align: center;
+    margin: 60px;
+}
